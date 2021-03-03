@@ -1,0 +1,17 @@
+Events output, 1000 events
+
+TTree 
+
+real    30m57.038s
+user    2m31.354s
+sys     8m44.052s
+
+3.07 MB
+
+RNTuple
+
+real    28m11.212s
+user    2m34.132s
+sys     8m57.438s
+
+2.97 MB 
